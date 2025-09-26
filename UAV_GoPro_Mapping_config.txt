@@ -1,0 +1,25 @@
+Profile: HDR
+Aspect Ratio: 16:9
+Resolutions: 5.3k
+Frame Rate: 30fps
+Hypersmooth: Off
+Capture:
+    Sceduled capture: Off
+    Duration: Off
+    Hindsight: Off
+    Timer: Off
+    Zoom: 1.0x
+Protune: 
+    Color mode: HLG HDR 
+    Bit rate: High
+    White Balance: 5500K
+    Sharpness: Low
+    DenoiseL Off
+    Color: Natural
+Dashboard: 
+    Voice Commands: Off
+    Beeping: Off
+    Screen Saver: On, 1 min
+    Front Display: Off or Status Only
+    Orientation: Lock to Landscape
+    LEDs: Off
